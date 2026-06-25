@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Zifan Xie(謝子凡)
 
-<!--
-**rosebudtse/rosebudtse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Artificial Intelligence at The Chinese University of Hong Kong.  
+Algorithm intern at ByteDance, Douyin Content Technology Department.  
+Interested in Large Language Models, Multimodal Learning, Reinforcement Learning, and AI Agents.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research & Engineering Interests
+
+- Large Language Models: SFT, RLHF / GRPO, reasoning, data selection
+- Multimodal Learning: vision-language understanding, image/video-based content comprehension and generation
+- AI Agents: tool-augmented generation, workflow automation, content generation systems
+
+---
+
+### Technical Stack
+
+- Deep Learning: PyTorch, Transformers, LoRA, PEFT, SFT, GRPO
+- Multimodal AI: vision-language modeling, image generation, video understanding
+- Computer Vision: YOLOv8, OpenCV, MMPose, HRNet, RetinaFace, MediaPipe
+- Model Deployment: ONNX, TensorRT, MNN, Linux
+- Programming: Python, C++, SQL, LaTeX, Git
+
+---
+
+### Contact
+
+- Email: zfxie@link.cuhk.edu.hk
+- GitHub: https://github.com/rosebudtse
