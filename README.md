@@ -20,7 +20,7 @@ Interested in Large Language Models, Multimodal Learning, Reinforcement Learning
 - Multimodal AI: vision-language modeling, image generation, video understanding
 - Computer Vision: YOLOv8, OpenCV, MMPose, HRNet, RetinaFace, MediaPipe
 - Model Deployment: ONNX, TensorRT, MNN, Linux
-- Programming: Python, C++, SQL, LaTeX, Git
+- Programming: Python, SQL, LaTeX, Git
 
 ---
 
